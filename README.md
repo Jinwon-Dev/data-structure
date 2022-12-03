@@ -9,3 +9,5 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 직접 실습한 코드는 [Github](https://github.com/Jinwon-Dev/data-structure)에 저장하며, 정리한 내용은 [Notion](https://jinwonyoon.notion.site/Data-Structure-649c12f7b24043bf830087d0ef449c00)에 기록합니다.
 
 - Chapter 1 : [자료구조의 시작](https://jinwonyoon.notion.site/Chapter-1-3ed9d4ae5b164ad4b333f09198572c1a)
+
+- Chapter 2 : [배열 리스트](https://jinwonyoon.notion.site/Chapter-2-c1216c7479f24094a9c392a5e2da5a88)
