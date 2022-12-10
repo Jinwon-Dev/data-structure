@@ -11,3 +11,5 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 - Chapter 1 : [자료구조의 시작](https://jinwonyoon.notion.site/Chapter-1-3ed9d4ae5b164ad4b333f09198572c1a)
 
 - Chapter 2 : [배열 리스트](https://jinwonyoon.notion.site/Chapter-2-c1216c7479f24094a9c392a5e2da5a88)
+
+- Chapter 8 : [재귀 호출](https://jinwonyoon.notion.site/Chapter-8-e909240387db434cabe089babece86da)
