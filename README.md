@@ -16,6 +16,6 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 
 - Chapter 4 : [연결 리스트의 확장](https://jinwonyoon.notion.site/Chapter-4-708b92bc433b4d868ef1b7a098eb11c3)
 
-- Chapter 5: [스택](https://jinwonyoon.notion.site/Chapter-5-053eb25d86a549c9a3ce80f4f16860fa)
+- Chapter 5 : [스택](https://jinwonyoon.notion.site/Chapter-5-053eb25d86a549c9a3ce80f4f16860fa)
 
 - Chapter 8 : [재귀 호출](https://jinwonyoon.notion.site/Chapter-8-e909240387db434cabe089babece86da)
