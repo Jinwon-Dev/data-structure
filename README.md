@@ -20,4 +20,6 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 
 - Chapter 6 : [스택의 적용](https://jinwonyoon.notion.site/Chapter-6-3adc5cbf43834ddfa62005479ce15328)
 
+- Chapter 7 : [큐](https://jinwonyoon.notion.site/Chapter-7-da7faaf3f888471889f840b9d9698b9e)
+
 - Chapter 8 : [재귀 호출](https://jinwonyoon.notion.site/Chapter-8-e909240387db434cabe089babece86da)
