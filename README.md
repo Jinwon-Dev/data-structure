@@ -25,3 +25,5 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 - Chapter 8 : [재귀 호출](https://jinwonyoon.notion.site/Chapter-8-e909240387db434cabe089babece86da)
 
 - Chapter 9 : [트리](https://jinwonyoon.notion.site/Chapter-9-3e72d04b82534e328d7b07e809770d87)
+
+- Chapter 10 : [히프](https://jinwonyoon.notion.site/Chapter-10-2815d8f7d8114e769f88b0d0f6f99edc)
