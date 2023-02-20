@@ -30,6 +30,8 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 
 - Chapter 11 : [그래프](https://jinwonyoon.notion.site/Chapter-11-db2a09583ce74e178303cd6a0ee8e8f6)
 
+- Chapter 12 : [검색](https://jinwonyoon.notion.site/Chapter-12-c19ecede09b34a139740fad57802eebe)
+
 - 추가 학습 : [정렬](https://jinwonyoon.notion.site/8430d45301bb425ebbb9aaefdb3cbcfa)
 
 - 추가 학습 : [최단 경로](https://jinwonyoon.notion.site/fe5e2248c3b04415a39f1d9e346d8dfa)
