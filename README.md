@@ -35,3 +35,5 @@ C언어를 사용하여 자료구조의 원리에 대해 학습한 내용을 기록합니다.
 - 추가 학습 : [정렬](https://jinwonyoon.notion.site/8430d45301bb425ebbb9aaefdb3cbcfa)
 
 - 추가 학습 : [최단 경로](https://jinwonyoon.notion.site/fe5e2248c3b04415a39f1d9e346d8dfa)
+
+- 추가 학습 : [MST(최소 비용 신장 트리)](https://jinwonyoon.notion.site/MST-e56208d3def540d6a085326876420779)
